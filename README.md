@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fridekk
 - 👀 I’m interested in Python,CSS,HTML,
-- 🌱 I’m currently will learn C# Cotlin, Sfift
+- 🌱 I’m also will learn C# Cotlin, Swift and C++
 - 💞️ I’m looking to collaborate with  serious adults
 - 📫 How to reach me my telegramg: @frideowsx
 
