@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @fridekk
-- 👀 I’m interested in Python,CSS,HTML,
-- 🌱 I’m also will learn C# Cotlin, Swift and C++
+- 👀 I’m interested in Python, JavaScrip, CSS, HTML
+- 🌱 I’m also will learn C#.
 - 💞️ I’m looking to collaborate with  serious adults
-- 📫 How to reach me my telegramg: @frideowsx
+- 📫 How to reach me: Telegram: @umanaww TikTok: umanaww
 
-<!---
-fridekk/fridekk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
